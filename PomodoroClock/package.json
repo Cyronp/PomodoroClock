@@ -1,7 +1,6 @@
 {
   "name": "pomodoroclock",
-  "homepage": "https://Cyronp.github.io/PomodoroClock/",
-  "private": true,
+  "homepage": "https://cyronp.github.io/PomodoroClock/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
