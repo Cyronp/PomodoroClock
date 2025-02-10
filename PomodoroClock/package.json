@@ -1,16 +1,16 @@
 {
-  "homepage": "http://Cyronp.github.io/PomodoroClock",
   "name": "pomodoroclock",
+  "homepage": "https://Cyronp.github.io/PomodoroClock/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.5",
