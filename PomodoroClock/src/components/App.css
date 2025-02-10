@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Modak&family=Orbitron:wght@400..900&family=Sono:wght@200..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-clock: 'Orbitron', "sans-serif";
+
+    --animate-wiggle: wiggle 2s ease-in-out infinite;  @keyframes wiggle {    0%,    100% {      transform: rotate(-1deg);    }    50% {      transform: rotate(1deg);    }  }
+}
+
+	
