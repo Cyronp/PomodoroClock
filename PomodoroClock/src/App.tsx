@@ -62,7 +62,7 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className='flex flex-col justify-center items-center min-h-screen bg-slate-900'>
+    <div className='w-full flex flex-col justify-center items-center min-h-screen bg-slate-900'>
       <Title />
       <Clock time={time} />
       {notification && <Notification onClose={closeNotification} activity={isWorkMode ? 'Study' : 'Rest'} />}
