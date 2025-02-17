@@ -2,7 +2,7 @@
 
 App with the intention to **improve user's studying/working focuses**.
 
-![Preview](.github\preview.png)
+![Preview](\preview.png)
 
 ## Technologies:
 <div>
