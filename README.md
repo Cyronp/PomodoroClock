@@ -1,7 +1,15 @@
-# PomodoroClock
+# PomodoroClock ⏰
 
-Pomodoro App using Vite.
+App with the intention to **improve user's studying/working focuses**.
 
-Technologies: React, TailwindCSS, Typescript.
+![Preview](.github\preview.png)
+
+## Technologies:
+<div>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+
 
 Developed for personal use.
