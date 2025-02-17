@@ -2,7 +2,7 @@
 
 App with the intention to **improve user's studying/working focuses**.
 
-![Preview](\preview.png)
+![Preview](rmAssets\preview.png)
 
 ## Technologies:
 <div>
