@@ -2,7 +2,7 @@
 
 App with the intention to **improve user's studying/working focuses**.
 
-![Preview](rmAssets\preview.png)
+![Preview](https://github.com/user-attachments/assets/c781bb23-b72e-4ed7-825e-4c4fe541ebc2)
 
 ## Technologies:
 <div>
