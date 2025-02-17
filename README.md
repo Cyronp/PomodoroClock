@@ -12,9 +12,8 @@ App with the intention to **improve user's studying/working focuses**.
 </div>
 
 ## 📁 Project
-
-This project mainly focus on helping people to use the **Pomodoro** technique, making it more viable,easy to use and manage.
-Feel free to test it out on this link.
+This project primarily focuses on helping people use the Pomodoro technique, 
+making it more accessible, easy to use, and manageable. Feel free to test it out at this link!
 
 [Test the project here](https://cyronp.github.io/PomodoroClock/)
 
