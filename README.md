@@ -11,5 +11,13 @@ App with the intention to **improve user's studying/working focuses**.
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
+## 📁 Project
+
+This project mainly focus on helping people to use the **Pomodoro** technique, making it more viable,easy to use and manage.
+Feel free to test it out on this link.
+
+[Test the project here](https://cyronp.github.io/PomodoroClock/)
+
+#
 
 **Developed for personal use**
